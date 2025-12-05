@@ -67,6 +67,3 @@ PWM levels (example from the code):
    - Check the PIR sensor:
      - If no person is detected, stop the fan and display a message.
      - If a person is detected, set the PWM duty cycle based on the current temperature and display the fan status (OFF / Level 1 / Level 2 / Level 3).
-
-│  ├─ lcd_wiring.png       # optional
-├─ README.md
